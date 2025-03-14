@@ -1,4 +1,4 @@
-from fileManager import *
+from fileHandler import *
 from coordinateValidator import *
 
 def main():
